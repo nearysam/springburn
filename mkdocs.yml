@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/nearysam/springburn/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/lab4.ipynb
     - API Reference:
           - springburn module: springburn.md
           - common module: common.md
