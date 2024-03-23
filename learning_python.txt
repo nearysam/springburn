@@ -1,0 +1,4 @@
+In Python you can:
+- Define functions and run tasks.
+- Use commands.
+- Work editing websites and applications.
