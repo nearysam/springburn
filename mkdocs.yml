@@ -82,6 +82,7 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/lab4.ipynb
+        - examples/lab5.ipynb
     - API Reference:
           - springburn module: springburn.md
           - common module: common.md
